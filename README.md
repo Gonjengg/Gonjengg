@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dayang Farah Farzana binti Abang Idham</h1>
 <h3 align="center">I am currently pursuing a bachelor degree in Science Computer (Data Engineering) in UTM Skudai</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Gonjengg/Technology-and-Information-System-Y1S1](https://github.com/Gonjengg/Technology-and-Information-System-Y1S1)
+- 🏠My hometown is in Kuching, Sarawak
+- 👨‍💻 All of my projects are available at <https://github.com/Gonjengg/Gonjengg>
 
-- 📫 How to reach me **dayangfarahfarzana@graduate.ut.my**
+- 📫 How to reach me **dayangfarahfarzana@graduate.utm.my**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
