@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dayang Farah Farzana binti Abang Idham
 ==============================================================================================================================================================
-<h3 align="center">I am currently pursuing a bachelor degree in Science Computer (Data Engineering) in UTM Skudai</h3>
+<h3 align="center">I am currently pursuing a bachelor degree in Computer Science (Data Engineering) in UTM Skudai</h3>
 
 - 🏠My hometown is in Kuching, Sarawak
 - 👨‍💻 All of my projects are available at <https://github.com/Gonjengg/Gonjengg>
