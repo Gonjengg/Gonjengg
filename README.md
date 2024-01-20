@@ -22,6 +22,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - Asasi Universiti Teknologi MARA
 - Universiti Teknologi Malaysia
 
+Shortcut repositories
+- <https://github.com/Gonjengg/Technology-and-Information-System-Y1S1>
+- <https://github.com/Gonjengg/Programming-Technique-Y1S1>
+- <https://github.com/Gonjengg/Digital-Logic-Y1S1>
+- <https://github.com/Gonjengg/ULRS-Y1S1>
+- <https://github.com/Gonjengg/Discrete-Structure-Y1S1>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gonjengg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gonjengg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
