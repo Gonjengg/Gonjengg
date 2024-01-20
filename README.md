@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <h3 align="center">I am currently pursuing a bachelor degree in Computer Science (Data Engineering) in UTM Skudai</h3>
 
 - 🏠My hometown is in Kuching, Sarawak
-- 👨‍💻 All of my projects are available at <https://github.com/Gonjengg/Gonjengg>
+- 👨‍💻 All of my projects are available at <https://github.com/Gonjengg/Gonjengg](https://gonjengg.github.io/>
 - 😉Get to know me by clicking this [link](https://www.canva.com/design/DAF6bfiXq80/VOHhcHx-2D4qCV30Xtr-Bw/edit?utm_content=DAF6bfiXq80&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - 📫 How to reach me **dayangfarahfarzana@graduate.utm.my**
