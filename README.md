@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - 🏠My hometown is in Kuching, Sarawak
 - 👨‍💻 All of my projects are available at <https://gonjengg.github.io/>
-- 😉Get to know me by clicking this [link](https://www.canva.com/design/DAF6bfiXq80/VOHhcHx-2D4qCV30Xtr-Bw/edit?utm_content=DAF6bfiXq80&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 😉Get to know me by clicking this [link](https://drive.google.com/file/d/1OTOOVE4rXMpwORRT157uPvsA5DPeJQSl/view?usp=sharing)
 
 - 📫 How to reach me **dayangfarahfarzana@graduate.utm.my**
 
