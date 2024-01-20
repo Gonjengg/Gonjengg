@@ -1,9 +1,18 @@
-<h1 align="center">Hi 👋, I'm Dayang Farah Farzana binti Abang Idham</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dayang Farah Farzana binti Abang Idham
+==============================================================================================================================================================
 <h3 align="center">I am currently pursuing a bachelor degree in Science Computer (Data Engineering) in UTM Skudai</h3>
 
 - 🏠My hometown is in Kuching, Sarawak
 - 👨‍💻 All of my projects are available at <https://github.com/Gonjengg/Gonjengg>
 - 📫 How to reach me **dayangfarahfarzana@graduate.utm.my**
+
+🎓Education
+- SK Rancangan Perumahan Rakyat
+- MATTARY
+- SMKA Sheikh Haji Othman Abdul Wahab
+- Asasi Universiti Teknologi MARA
+- Universiti Teknologi Malaysia
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gonjengg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gonjengg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
